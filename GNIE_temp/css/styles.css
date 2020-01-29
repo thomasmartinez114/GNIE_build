@@ -24,4 +24,9 @@
 #icon {
     max-width: 200px;
     margin: 1% auto;
+    /* horizontal, vertical, blur, color */
+    -webkit-box-shadow: -3px -3px 2px black;
+    -moz-box-shadow: -3px -3px 2px black;
+    box-shadow: -3px -3px 2px black;
+    margin-bottom: 16px;
 }
