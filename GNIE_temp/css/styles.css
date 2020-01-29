@@ -1,0 +1,30 @@
+* {
+    margin: 5px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Navigation Bar */
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 8vh;
+    /* background-color: #white; */
+    /* background-color: #8dc8e8; */
+    /* Debugging */
+}
+
+.nav-font {
+    color: #ff671f;
+    text-transform: uppercase;
+    /* letter-spacing: 1px; */
+    font-size: 22px;
+}
+
+.logo {
+    height: 75px;
+}
+
+/* Body */
