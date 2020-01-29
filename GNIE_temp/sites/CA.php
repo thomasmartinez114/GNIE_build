@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   <link rel="stylesheet" href="../css/styles.css" />
-  <title>GNIE | Poland</title>
+  <title>GNIE | Canada</title>
   <link rel="icon" type="image/png" href="../images/LogoGlobe.png" />
 
   <!-- Latest compiled and minified CSS -->
@@ -23,7 +23,7 @@
   <nav class="navbar navbar-light bg-light">
     <div class="container-fluid">
       <div class="navbar-header">
-        <a href="../index.html" class="navbar-brand">
+        <a href="../index.php" class="navbar-brand">
           <img src="../images/IGT.png" alt="" class="image-logo"></a>
       </div>
     </div>
@@ -31,17 +31,9 @@
 
   <div class="container text-center images">
     <div class="row">
-      <div class="col-sm-4">
+      <div class="col-sm-12">
         <a href="#"><img src="https://via.placeholder.com/300" alt="" id="icon"></a>
         <h4>Call Centre</h4>
-      </div>
-      <div class="col-sm-4">
-        <a href="#"><img src="https://via.placeholder.com/300" alt="" id="icon"></a>
-        <h4>Field Service Technicians</h4>
-      </div>
-      <div class="col-sm-4">
-        <a href="#"><img src="https://via.placeholder.com/300" alt="" id="icon"></a>
-        <h4>Regional Repair Facility</h4>
       </div>
     </div>
   </div>
