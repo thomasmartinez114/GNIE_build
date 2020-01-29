@@ -19,6 +19,15 @@
 /* Images */
 .images {
     margin-top: 100px;
+    background-color: #003865;
+    -webkit-box-shadow: -3px -3px black;
+    -moz-box-shadow: -3px -3px black;
+    box-shadow: -3px -3px black;
+}
+
+/* Font color for all images */
+div>h4 {
+    color: white;
 }
 
 #icon {
