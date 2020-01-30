@@ -1,5 +1,10 @@
 GNIE Site
 
+**Installation Program**
+
+- Install Local by Flywheel to run the PHP site locally
+  - https://localbyflywheel.com/
+
 **Updates**
 
 - [x] Tech Ops => Technology Operations
