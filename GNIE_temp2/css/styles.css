@@ -70,18 +70,19 @@
 .footer {
     display: flex;
     justify-content: space-between;
+    background-color: #0c51a1;
 }
 
 .footer-item {
-    border: 1px solid white;
-    background-color: #666666;
+    /* border: 1px solid white; */
+    background-color: #0c51a1;
     height: 200px;
     flex: 1;
 }
 
-.footer-one,
+/* .footer-one,
 .footer-three {
     background-color: #0c51a1;
     flex: initial;
     width: 300px;
-}
+} */
