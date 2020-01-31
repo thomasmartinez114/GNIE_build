@@ -34,16 +34,29 @@
     padding-left: 5%;
 }
 
-.caption-flag {
+/* .caption-flag {
     font-weight: bold;
-}
+} */
 
 /* Footer */
-footer {
-    padding: 20px;
+.footer {
+    /* padding: 20px;
     margin-top: 20px;
     color: #ffffff;
     background-color: #2eb3fa;
     text-align: center;
+    height: 150px; */
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
     height: 150px;
+    background-color: #2eb3fa;
+    color: white;
+    text-align: center;
+}
+
+.footer-text {
+    text-align: center;
+    align-items: center;
 }
