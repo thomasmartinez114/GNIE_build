@@ -30,6 +30,10 @@
   position: relative;
 }
 
+/* .cards {
+  box-shadow: 1px 4px 8px 0 rgba(0, 0, 0, 0.6);
+} */
+
 .image-tile {
   height: 100px;
 }

@@ -32,40 +32,40 @@
   <!-- Photo Grid -->
   <div class="container text-center images">
     <div class="row row-top">
-      <div class="col-sm-3 card">
+      <div class="col-sm-3 cards">
         <a href="./sites/US.html"><img src="./images/flags/United_States.png" class="image-tile"
             alt="United States" /></a>
         <p>United States</p>
       </div>
-      <div class="col-sm-3 card">
+      <div class="col-sm-3 cards">
         <a href="./sites/CA.html"><img src="./images/flags/Canada.png" class="image-tile" alt="Canada" /></a>
         <p>Canada</p>
       </div>
-      <div class="col-sm-3 card">
+      <div class="col-sm-3 cards">
         <a href="./sites/CZ.html"><img src="./images/flags/Czech_Republic.png" class="image-tile"
             alt="Czech Republic" /></a>
         <p>Czech Republic</p>
       </div>
-      <div class="col-sm-3 card">
+      <div class="col-sm-3 cards">
         <a href="./sites/PL.html"><img src="./images/flags/Poland.png" class="image-tile" alt="Poland" /></a>
         <p>Poland</p>
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-3 card">
+      <div class="col-sm-3 cards">
         <a href="./sites/ES.html"><img src="./images/flags/Spain.png" class="image-tile" alt="Spain" /></a>
         <p>Spain</p>
       </div>
-      <div class="col-sm-3 card">
+      <div class="col-sm-3 cards">
         <a href="./sites/SK.html"><img src="./images/flags/Slovakia.png" class="image-tile" alt="Slovakia" /></a>
         <p>Slovakia</p>
       </div>
-      <div class="col-sm-3 card">
+      <div class="col-sm-3 cards">
         <a href="./sites/TT.html"><img src="./images/flags/Trinidad.png" class="image-tile"
             alt="Trinidad & Tobago" /></a>
         <p>Trinidad & Tobago</p>
       </div>
-      <div class="col-sm-3 card">
+      <div class="col-sm-3 cards">
         <a href="./sites/TR.html"><img src="./images/flags/Turkey.png" class="image-tile" alt="Turkey" /></a>
         <p>Turkey</p>
       </div>
