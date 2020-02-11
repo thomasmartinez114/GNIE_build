@@ -34,6 +34,10 @@
   transition: 0.4s;
 }
 
+.image-tile:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.6);
+}
+
 .row-top {
   padding-top: 5%;
 }
