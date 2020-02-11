@@ -72,10 +72,9 @@
     </div>
   </div>
 
-  <!-- Footer -->
   <div class="footer">
     <p class="footer-text">
-      IGT, PLC. For internal use only. Copyright &copy; 2020. All Rights
+      IGT, PLC. For internal use only. Copyright &copy; <?php echo date("Y"); ?>. All Rights
       Reserved
     </p>
   </div>
