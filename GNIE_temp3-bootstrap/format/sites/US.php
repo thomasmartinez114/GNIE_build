@@ -33,25 +33,25 @@
   <div class="container text-center images">
     <div class="row row-top">
       <div class="col-sm-4">
-        <a href="#"><img src="../images/icons/call-center.png" class="image-tile" alt="Call Center"></a>
+        <a href="#" title="Call Center"><img src="../images/icons/call-center.png" class="image-tile" alt="Call Center"></a>
         <p>Call Center</p>
       </div>
       <div class="col-sm-4">
-        <a href="#"><img src="../images/icons/fst.png" class="image-tile" alt="Field Service Technicians"></a>
+        <a href="#" title="Field Service Technicians"><img src="../images/icons/fst.png" class="image-tile" alt="Field Service Technicians"></a>
         <p>Field Service Technicians</p>
       </div>
       <div class="col-sm-4">
-        <a href="#"><img src="../images/icons/helpdesk.png" class="image-tile" alt="Help Desk"></a>
+        <a href="#" title="Help Desk"><img src="../images/icons/helpdesk.png" class="image-tile" alt="Help Desk"></a>
         <p>Help Desk</p>
       </div>
     </div>
     <div class="row">
       <div class="col-sm-4">
-        <a href="./US-ITS.html"><img src="../images/icons/its.png" class="image-tile" alt="Instant Ticketing Sales"></a>
+        <a href="./us-its.html" title="Instant Ticketing Sales"><img src="../images/icons/its.png" class="image-tile" alt="Instant Ticketing Sales"></a>
         <p>Instant Ticketing Sales</p>
       </div>
       <div class="col-sm-4">
-        <a href="#"><img src="../images/icons/rrf.png" class="image-tile" alt="Regional Repair Facility"></a>
+        <a href="#" title="Regional Repair Facility><img src="../images/icons/rrf.png" class="image-tile" alt="Regional Repair Facility"></a>
         <p>Regional Repair Facility</p>
       </div>
       <div class="col-sm-4">

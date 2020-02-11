@@ -33,40 +33,45 @@
   <div class="container text-center images">
     <div class="row row-top">
       <div class="col-sm-3">
-        <a href="./sites/US.html"><img src="./images/flags/United_States.png" class="image-tile"
+        <a href="./sites/US.html" title="United States"><img src="./images/flags/United_States.png" class="image-tile"
             alt="United States" /></a>
         <p>United States</p>
       </div>
       <div class="col-sm-3">
-        <a href="./sites/CA.html"><img src="./images/flags/Canada.png" class="image-tile" alt="Canada" /></a>
+        <a href="./sites/CA.html" title="Canada"><img src="./images/flags/Canada.png" class="image-tile"
+            alt="Canada" /></a>
         <p>Canada</p>
       </div>
       <div class="col-sm-3">
-        <a href="./sites/CZ.html"><img src="./images/flags/Czech_Republic.png" class="image-tile"
+        <a href="./sites/CZ.html" title="Czech Republic"><img src="./images/flags/Czech_Republic.png" class="image-tile"
             alt="Czech Republic" /></a>
         <p>Czech Republic</p>
       </div>
       <div class="col-sm-3">
-        <a href="./sites/PL.html"><img src="./images/flags/Poland.png" class="image-tile" alt="Poland" /></a>
+        <a href="./sites/PL.html" title="Poland"><img src="./images/flags/Poland.png" class="image-tile"
+            alt="Poland" /></a>
         <p>Poland</p>
       </div>
     </div>
     <div class="row">
       <div class="col-sm-3">
-        <a href="./sites/ES.html"><img src="./images/flags/Spain.png" class="image-tile" alt="Spain" /></a>
+        <a href="./sites/ES.html" title="Spain"><img src="./images/flags/Spain.png" class="image-tile"
+            alt="Spain" /></a>
         <p>Spain</p>
       </div>
       <div class="col-sm-3">
-        <a href="./sites/SK.html"><img src="./images/flags/Slovakia.png" class="image-tile" alt="Slovakia" /></a>
+        <a href="./sites/SK.html" title="Slovakia"><img src="./images/flags/Slovakia.png" class="image-tile"
+            alt="Slovakia" /></a>
         <p>Slovakia</p>
       </div>
       <div class="col-sm-3">
-        <a href="./sites/TT.html"><img src="./images/flags/Trinidad.png" class="image-tile"
+        <a href="./sites/TT.html" title="Trinidad & Tobago"><img src="./images/flags/Trinidad.png" class="image-tile"
             alt="Trinidad & Tobago" /></a>
         <p>Trinidad & Tobago</p>
       </div>
       <div class="col-sm-3">
-        <a href="./sites/TR.html"><img src="./images/flags/Turkey.png" class="image-tile" alt="Turkey" /></a>
+        <a href="./sites/TR.html" title="Turkey"><img src="./images/flags/Turkey.png" class="image-tile"
+            alt="Turkey" /></a>
         <p>Turkey</p>
       </div>
     </div>

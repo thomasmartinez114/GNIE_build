@@ -33,7 +33,7 @@
   <div class="container text-center images">
     <div class="row row-top">
       <div class="col-sm-12">
-        <a href="#"><img src="../images/icons/call-center.png" class="image-tile" alt="Call Center"></a>
+        <a href="#" title="Call Center"><img src="../images/icons/call-center.png" class="image-tile" alt="Call Center"></a>
         <p>Call Centre</p>
       </div>
     </div>
