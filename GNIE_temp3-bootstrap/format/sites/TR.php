@@ -26,18 +26,20 @@
 
   <!-- Header -->
   <header class="page-header">
-    <img src="../images/banners/gnie_banner.jpg" alt="" class="image-header">
+    <img src="../images/banners/gnie_banner-tr.jpg" alt="" class="image-header">
   </header>
 
   <!-- Photo Grid -->
   <div class="container text-center images">
     <div class="row row-top">
       <div class="col-sm-6">
-        <a href="#" title="Call Center"><img src="../images/icons/call-center.png" class="image-tile" alt="Call Center"></a>
+        <a href="#" title="Call Centre"><img src="../images/icons/call-center.png" class="image-tile"
+            alt="Call Center"></a>
         <p>Call Centre</p>
       </div>
       <div class="col-sm-6">
-        <a href="#" title="Field Service Technicians"><img src="../images/icons/fst.png" class="image-tile" alt="Field Service Technicians"></a>
+        <a href="#" title="Field Service Technicians"><img src="../images/icons/fst.png" class="image-tile"
+            alt="Field Service Technicians"></a>
         <p>Field Service Technicians</p>
       </div>
     </div>

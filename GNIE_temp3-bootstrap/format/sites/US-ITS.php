@@ -26,18 +26,18 @@
 
   <!-- Header -->
   <header class="page-header">
-    <img src="../images/banners/gnie_banner.jpg" alt="" class="image-header">
+    <img src="../images/banners/gnie_banner-us-its.jpg" alt="" class="image-header">
   </header>
 
   <!-- Photo Grid -->
   <div class="container text-center images">
     <div class="row row-top">
       <div class="col-sm-6">
-        <a href="#"><img src="../images/flags/tx.jpg" class="image-tile" alt="Texas"></a>
+        <a href="#" title="Texas"><img src="../images/flags/tx.jpg" class="image-tile" alt="Texas"></a>
         <p>Texas</p>
       </div>
       <div class="col-sm-6">
-        <a href="#"><img src="../images/flags/wi.jpg" class="image-tile" alt="Wisconsin"></a>
+        <a href="#" title="Wisconsin"><img src="../images/flags/wi.jpg" class="image-tile" alt="Wisconsin"></a>
         <p>Wisconsin</p>
       </div>
     </div>
