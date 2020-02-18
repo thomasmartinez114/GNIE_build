@@ -73,6 +73,10 @@
   display: block;
 }
 
+.col-sm-4:hover .dropdown-content {
+  display: block;
+}
+
 /* Footer */
 .footer {
   /* padding: 20px;
