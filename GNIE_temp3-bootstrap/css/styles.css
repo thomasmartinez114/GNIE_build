@@ -27,6 +27,7 @@
 .container {
   background-color: #e8f7ff;
   position: relative;
+  height: 650px;
 }
 
 .image-tile {
