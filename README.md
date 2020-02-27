@@ -10,3 +10,6 @@ GNIE Site
 - [x] Tech Ops => Technology Operations
 - [x] ITS => Instant Ticketing Sales
 - [x] Add blue behind the flags
+- [ ] Add php time on site
+- [ ] Add Rating Thread
+- [ ] Make page responsive
